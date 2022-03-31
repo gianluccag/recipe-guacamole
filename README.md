@@ -1,3 +1,3 @@
 # Guacamole recipe
 
-Used in teaching Git.
+Used in the CodeRefinery Git workshop.
